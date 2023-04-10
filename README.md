@@ -27,3 +27,4 @@
 | 21  | [Drag N Drop ](https://github.com/anastasija-angelovska/50projects50days/tree/main/Drag%20N%20Drop)                         |
 | 22  | [Drawing App ](https://github.com/anastasija-angelovska/50projects50days/tree/main/Drawing%20app)                           |
 | 23  | [Kinetic Loader](https://github.com/anastasija-angelovska/50projects50days/tree/main/Kinetic%20loader)                      |
+| 24  | [Content Placeholder](https://github.com/anastasija-angelovska/50projects50days/tree/main/Content%20placeholder)            |
