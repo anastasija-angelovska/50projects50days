@@ -29,3 +29,4 @@
 | 23  | [Kinetic Loader](https://github.com/anastasija-angelovska/50projects50days/tree/main/Kinetic%20loader)                      |
 | 24  | [Content Placeholder](https://github.com/anastasija-angelovska/50projects50days/tree/main/Content%20placeholder)            |
 | 25  | [Sticky Navigation](https://github.com/anastasija-angelovska/50projects50days/tree/main/Sticky%20navigation)                |
+| 26  | [Double Vertical Slider](https://github.com/anastasija-angelovska/50projects50days/tree/main/Double%20vertical%20slider)    |
