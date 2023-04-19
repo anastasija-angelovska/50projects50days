@@ -32,3 +32,4 @@
 | 26  | [Double Vertical Slider](https://github.com/anastasija-angelovska/50projects50days/tree/main/Double%20vertical%20slider)    |
 | 27  | [Toast Notification](https://github.com/anastasija-angelovska/50projects50days/tree/main/Toast%20notification)              |
 | 28  | [GitHub Profiles](https://github.com/anastasija-angelovska/50projects50days/tree/main/Github%20profiles)                    |
+| 29  | [Double Click Heart](https://github.com/anastasija-angelovska/50projects50days/tree/main/Double%20click%20heart)            |
