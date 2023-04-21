@@ -33,3 +33,5 @@
 | 27  | [Toast Notification](https://github.com/anastasija-angelovska/50projects50days/tree/main/Toast%20notification)              |
 | 28  | [GitHub Profiles](https://github.com/anastasija-angelovska/50projects50days/tree/main/Github%20profiles)                    |
 | 29  | [Double Click Heart](https://github.com/anastasija-angelovska/50projects50days/tree/main/Double%20click%20heart)            |
+| 30  | [Auto Text Effect](https://github.com/anastasija-angelovska/50projects50days/tree/main/Auto%20text%20effect)                |
+| 31  | [Password Generator](https://github.com/anastasija-angelovska/50projects50days/tree/main/Password%20generator)              |
