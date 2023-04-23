@@ -35,3 +35,4 @@
 | 29  | [Double Click Heart](https://github.com/anastasija-angelovska/50projects50days/tree/main/Double%20click%20heart)            |
 | 30  | [Auto Text Effect](https://github.com/anastasija-angelovska/50projects50days/tree/main/Auto%20text%20effect)                |
 | 31  | [Password Generator](https://github.com/anastasija-angelovska/50projects50days/tree/main/Password%20generator)              |
+| 32  | [Good Cheap Fast](https://github.com/anastasija-angelovska/50projects50days/tree/main/Good%20cheap%20fast)                  |
