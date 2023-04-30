@@ -36,3 +36,4 @@
 | 30  | [Auto Text Effect](https://github.com/anastasija-angelovska/50projects50days/tree/main/Auto%20text%20effect)                |
 | 31  | [Password Generator](https://github.com/anastasija-angelovska/50projects50days/tree/main/Password%20generator)              |
 | 32  | [Good Cheap Fast](https://github.com/anastasija-angelovska/50projects50days/tree/main/Good%20cheap%20fast)                  |
+| 33  | [Notes App](https://github.com/anastasija-angelovska/50projects50days/tree/main/Notes%20app)                                |
