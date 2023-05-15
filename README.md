@@ -38,3 +38,4 @@
 | 32  | [Good Cheap Fast](https://github.com/anastasija-angelovska/50projects50days/tree/main/Good%20cheap%20fast)                  |
 | 33  | [Notes App](https://github.com/anastasija-angelovska/50projects50days/tree/main/Notes%20app)                                |
 | 34  | [Animated Countdown](https://github.com/anastasija-angelovska/50projects50days/tree/main/Animated%20countdown)              |
+| 35  | [Image Carousel](https://github.com/anastasija-angelovska/50projects50days/tree/main/Image%20carousel)                      |
