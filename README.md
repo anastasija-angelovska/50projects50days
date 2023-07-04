@@ -42,3 +42,4 @@
 | 36  | [Hoverboard](https://github.com/anastasija-angelovska/50projects50days/tree/main/Hoverboard)                                |
 | 37  | [Pokedex](https://github.com/anastasija-angelovska/50projects50days/tree/main/Pokedex)                                      |      
 | 38  | [Mobile Tab Navigation](https://github.com/anastasija-angelovska/50projects50days/tree/main/Mobile%20tab%20navigation)      |
+| 39  | [Password Strength Background](https://github.com/anastasija-angelovska/50projects50days/tree/main/Password%20strength%20background) |
